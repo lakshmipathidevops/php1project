@@ -1,5 +1,5 @@
 <?
 echo "welcome"
-print "devops"
+print "devps"
 
 ?>
