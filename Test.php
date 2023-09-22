@@ -1,4 +1,5 @@
 <?
 echo "welcome"
+print "devops"
 
 ?>
