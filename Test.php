@@ -1,5 +1,5 @@
 <?
 echo "welcome"
-print "devps"
+print "devops added by uday"
 
 ?>
